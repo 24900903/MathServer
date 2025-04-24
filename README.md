@@ -14,7 +14,7 @@ P = I<sup>2</sup>R
 ## DESIGN STEPS:
 
 ### Step 1:
-Clone the repository from GitHub.
+Clone the repository from GitHub
 
 ### Step 2:
 Create Django Admin project.
